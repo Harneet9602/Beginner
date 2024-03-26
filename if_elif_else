@@ -1,0 +1,10 @@
+num=int(input("Enter the value of num:"))
+if(num<0):
+  print("NUMBER IS NEGATIVE")
+elif(num==0):
+  print("NUMBER IS ZERO")
+elif(num==999):
+  print("NUMBER IS SPECIAL")
+else:
+  print("NUMBER IS POSITIVE")
+print("1st code done")
